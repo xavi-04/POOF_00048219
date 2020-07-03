@@ -1,0 +1,9 @@
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\POOF_00048219\Parcial_Final\Parcial_Final\bin\Debug\Parcial_Final.exe.config
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\POOF_00048219\Parcial_Final\Parcial_Final\bin\Debug\Parcial_Final.exe
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\POOF_00048219\Parcial_Final\Parcial_Final\bin\Debug\Parcial_Final.pdb
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\POOF_00048219\Parcial_Final\Parcial_Final\obj\Debug\Parcial_Final.csprojAssemblyReference.cache
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\POOF_00048219\Parcial_Final\Parcial_Final\obj\Debug\Parcial_Final.Properties.Resources.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\POOF_00048219\Parcial_Final\Parcial_Final\obj\Debug\Parcial_Final.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\POOF_00048219\Parcial_Final\Parcial_Final\obj\Debug\Parcial_Final.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\POOF_00048219\Parcial_Final\Parcial_Final\obj\Debug\Parcial_Final.exe
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\POOF_00048219\Parcial_Final\Parcial_Final\obj\Debug\Parcial_Final.pdb

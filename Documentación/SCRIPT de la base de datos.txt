@@ -1,0 +1,23 @@
+CREATE TABLE DEPARTAMENTO(
+	idDepartamento PRIMARY KEY,
+	nombre VARCHAR(15),
+	ubicación
+);
+
+CREATE TABLE USUARIO(
+	idUsuario PRIMARY KEY,
+	idDepartamento FOREIGN KEY
+	contraseña VARCHAR(8),
+	nombre,
+	apellido,
+	dui,
+	fechaNacimiento
+);
+
+CREATE TABLE REGISTRO(
+	idRegistro PRIMARY KEY,
+	idUsuario FOREIGN KEY,
+	entrada,
+	fecha y hora,
+	temperatura
+);
